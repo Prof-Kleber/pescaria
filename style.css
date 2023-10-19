@@ -1,0 +1,29 @@
+body{
+    background-color: aqua;
+}
+.titulo{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color: blue;
+}
+.bg{
+background-image: url(dourado.jpeg);
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+background-attachment: fixed;
+
+}
+
+
+.paragrafo1{
+    font-size: 20px;
+    color: white;
+}
+.botao{
+    text-align: center;
+   
+}
+.botao2{
+    text-align: center;
+}
